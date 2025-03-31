@@ -4,6 +4,11 @@
 
 https://kanban-board-challenge-14-wvp7.onrender.com
 
+login information:
+username: 'JollyGuru', password: 'password'
+username: 'SunnyScribe', password: 'password'
+username: 'RadiantComet', password: 'password'
+
 GIVEN a Kanban board with a secure login page
 WHEN I load the login page
 THEN I am presented with form inputs for username and password
